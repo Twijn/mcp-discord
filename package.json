@@ -1,0 +1,23 @@
+{
+  "name": "mcp-discord",
+  "version": "1.0.0",
+  "description": "Discord services for MinecraftServer.pro",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Twijn/mcp-discord.git"
+  },
+  "author": "Twijn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Twijn/mcp-discord/issues"
+  },
+  "homepage": "https://github.com/Twijn/mcp-discord#readme",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "express": "^4.19.2"
+  }
+}
